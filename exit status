@@ -1,0 +1,4 @@
+$0	Name of the script or command
+$1, $2…	Arguments passed to the script
+$?	Exit status of last command
+$$	PID of the current shell/script
