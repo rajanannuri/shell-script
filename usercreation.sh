@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-user=rajo
+user=raja
 password=raja@123
 #
 if id "$user" ;then
