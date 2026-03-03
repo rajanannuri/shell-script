@@ -19,3 +19,4 @@ echo "files older then $days moved successfully"
 else
 echo " files failed to archive"
 fi
+## -mtime --- modification time ### +$days ---- the age of the files is more then 30 days ### -$days ---- files have less then 30 days age, it means recently modified files.
